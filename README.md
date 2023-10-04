@@ -30,7 +30,7 @@ Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que le
 ## Deploy 🚀
 
 <div align="center">
-    <a href="https://www.google.com"><strong>Url a producción </strong></a>🚀🚀🚀
+    <a href="https://thstr677.github.io/mi-primer-proyecto/"><strong>Url a producción </strong></a>🚀🚀🚀
 </div>
 
 ## Stack
